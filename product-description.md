@@ -13,7 +13,7 @@ This resource is presented in CSV and JSON format. The included dataset has the 
 `"data_as_of", "start_week", "end_week", "group", "state", "indicator", "covid_deaths", "total_deaths", "percent_of_expected_deaths", "pneumonia_deaths", "pneumonia_and_covid_deaths", "influenza_deaths", "pneumonia_influenza_and_covid", "footnote"`
 
 ## More Information
-- Source - [National Center for Health Statistics (NCHS), Centers for Disease Control and Prevention](https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Place-of-Deat/uggs-hy5q) 
+- Source - [National Center for Health Statistics (NCHS), Centers for Disease Control and Prevention](https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Week-Ending-D/r8kw-7aab) 
 - [Terms of Use](https://www.usa.gov/government-works)
 - [CDC Data Homepage](https://data.cdc.gov/)
 - Frequency: Weekly
