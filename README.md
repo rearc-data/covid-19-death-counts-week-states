@@ -2,7 +2,7 @@
     <img src="./rearc_logo_rgb.png" alt="Rearc Logo" title="Rearc Logo" height="52" />
 </a>
 
-# Provisional COVID-19 Death Counts by Week Ending Date and State | CDC / NCHS
+# Provisional COVID-19 Death Counts by Week and State | CDC / NCHS
 
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [](). 
 
@@ -24,7 +24,7 @@ This resource is presented in CSV and JSON format. The included dataset has the 
 - Formats: CSV, JSON
 
 ## Contact Details
-- If you find any issues or have enhancements with this product, open up a GitHub [issue](https://github.com/rearc-data/covid-19-death-counts-weekly-states/issues) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
+- If you find any issues or have enhancements with this product, open up a GitHub [issue](https://github.com/rearc-data/covid-19-death-counts-week-states/issues) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
 - If you are interested in any other open datasets, please create a request on our project board [here](https://github.com/rearc-data/covid-datasets-aws-data-exchange/projects/1).
 - If you have questions about this source data, please send the National Center for Health Statistics an email at nchsed@cdc.gov.
 - If you have any other questions or feedback, send us an email at data@rearc.io.
